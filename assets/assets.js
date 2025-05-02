@@ -264,7 +264,7 @@ export const productsDummyData = [
     "_id": "67a1fa4b3f34a77b6dde9166",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "name": "ASUS ROG Zephyrus G16",
-    "description": "The ASUS ROG Zephyrus G16 gaming laptop is powered by the Intel Core i9 processor and features an RTX 4070 GPU, delivering top-tier gaming and performance. With 16GB of RAM and a 1TB SSD, this laptop is designed for gamers who demand extreme power, speed, and storage. Equipped with a stunning 16-inch display, it's built to handle the most demanding titles and applications with ease.",
+    "description": "The ASUS ROG Zephyrus G16 is a high-performance gaming laptop featuring an Intel Core i7 processor and NVIDIA GeForce RTX 3060 graphics. With a 16-inch QHD display, it delivers stunning visuals and smooth gameplay. The laptop's sleek design and customizable RGB keyboard make it perfect for gamers who demand both style and performance. Whether you're gaming, streaming, or creating content, the G16 is built to handle it all with ease.", 
     "price": 2199.99,
     "offerPrice": 1999.99,
     "image": [
@@ -318,10 +318,10 @@ export const orderDummyData = [
     "address": {
       "_id": "67a1e4233f34a77b6dde9055",
       "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-      "fullName": "GreatStack",
+      "fullName": "fly buy head quarters",
       "phoneNumber": "0123456789",
       "pincode": 654321,
-      "area": "Main Road , 123 Street, G Block",
+      "area": "vjit, n Block",
       "city": "City",
       "state": "State",
       "__v": 0
@@ -357,7 +357,7 @@ export const orderDummyData = [
     "address": {
       "_id": "67a1e4233f34a77b6dde9055",
       "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-      "fullName": "GreatStack",
+      "fullName": "vjit",
       "phoneNumber": "0123456789",
       "pincode": 654321,
       "area": "Main Road , 123 Street, G Block",
@@ -399,10 +399,10 @@ export const orderDummyData = [
     "address": {
       "_id": "67a1e4233f34a77b6dde9055",
       "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-      "fullName": "GreatStack",
+      "fullName": "fly buy",
       "phoneNumber": "0123456789",
       "pincode": 654321,
-      "area": "Main Road , 123 Street, G Block",
+      "area": "vjit, 123 Street, n Block",
       "city": "City",
       "state": "State",
       "__v": 0
@@ -417,10 +417,10 @@ export const addressDummyData = [
   {
     "_id": "67a1e4233f34a77b6dde9055",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "fullName": "GreatStack",
+    "fullName": "vjit",
     "phoneNumber": "0123456789",
     "pincode": 654321,
-    "area": "Main Road , 123 Street, G Block",
+    "area": "aziz nagar, 123 Street, n Block",
     "city": "City",
     "state": "State",
     "__v": 0
